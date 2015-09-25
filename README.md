@@ -1,2 +1,2 @@
-# popupsHTMLONLY
-This repo contains popups in html5
+# Partial Html Files
+This repo contains partial  html5
